@@ -740,8 +740,8 @@ body {
 .intro--banner h1 {
     position: relative;
     font-size: 68px;
-    font-weight: 900;
-    line-height: 1;
+    font-weight: 500;
+    line-height: 1.2;
     z-index: 1
 }
 
@@ -804,13 +804,13 @@ body {
 .intro--options>a {
     max-width: 250px;
     text-decoration: none;
-    color: #282828;
+    color: #ffffff;
     -webkit-transition: color .2s ease-in-out;
     transition: color .2s ease-in-out
 }
 
 .intro--options>a:hover {
-    color: #fff
+    color: blue;
 }
 
 .intro--options h3 {
